@@ -63,4 +63,5 @@ See the [LICENSE](./LICENSE) file for details.
 ---
 
 ## 🌐 Other Versions
-- [Korean README](./README_kr.md)
+- [한국어](./README_kr.md)
+- [日本語](./README_jp.md)
